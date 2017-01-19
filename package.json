@@ -1,0 +1,19 @@
+{
+  "name": "tdd-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "co-mocha": "^1.1.2",
+    "csvtojson": "^1.0.0",
+    "got": "^6.3.0",
+    "mocha": "^2.5.3",
+    "testdouble": "^1.6.0"
+  }
+}
